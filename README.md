@@ -1,6 +1,6 @@
-# Sample repo showing how to use dynamic secrets with Postgres database
+# Sample repo showing how to use dynamic secrets with MSSQL database
 
-This repo is for learning purposes and to show how Vault can generate dynamic secrets for Posgres database.
+This repo is for learning purposes and to show how Vault can generate dynamic secrets for MSSQL database.
 
 ### Requirements:
 - Virtualbox
